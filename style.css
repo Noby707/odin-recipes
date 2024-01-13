@@ -1,0 +1,9 @@
+.container {
+    border: 1px solid black;
+    text-align: center;
+    background-color: rgb(255, 182, 24);
+}
+
+ul li {
+    display: inline;
+}
